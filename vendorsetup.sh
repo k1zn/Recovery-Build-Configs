@@ -18,7 +18,7 @@
 #	Please maintain this if you use this script or any part of it
 #
 
-# big thanks to brigudav for this vendorsetup file
+# big thanks to github.cmo/brigudav for this vendorsetup file
 
 FDEVICE="surya"
 
